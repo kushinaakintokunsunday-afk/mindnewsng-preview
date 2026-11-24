@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kushinaakintokunsunday-afk.github.io/mindnewsng-preview/sitemap.xml
-Sitemap: https://kushinaakintokunsunday-afk.github.io/mindnewsng-preview/news-sitemap.xml
+Sitemap: https://mindnewsng.com/sitemap.xml
+Sitemap: https://mindnewsng.com/news-sitemap.xml
